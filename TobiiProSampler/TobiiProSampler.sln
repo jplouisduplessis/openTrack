@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobiiProSampler", "TobiiProSampler\TobiiProSampler.csproj", "{1B1EF94F-B03A-4C83-9567-64469CD9A235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySDK", "MySDK\MySDK.csproj", "{52F5F390-BAE7-4FEE-9DD1-0660671B7199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B1EF94F-B03A-4C83-9567-64469CD9A235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1EF94F-B03A-4C83-9567-64469CD9A235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1EF94F-B03A-4C83-9567-64469CD9A235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1EF94F-B03A-4C83-9567-64469CD9A235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F5F390-BAE7-4FEE-9DD1-0660671B7199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F5F390-BAE7-4FEE-9DD1-0660671B7199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F5F390-BAE7-4FEE-9DD1-0660671B7199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F5F390-BAE7-4FEE-9DD1-0660671B7199}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDDF778B-3E40-446E-BA8F-2DE1C9FFCFA7}
+	EndGlobalSection
+EndGlobal
